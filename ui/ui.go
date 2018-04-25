@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/etsy/hound/config"
+	"github.com/jcmanzo/hound/config"
 )
 
 // An http.Handler for the dev-mode case.
